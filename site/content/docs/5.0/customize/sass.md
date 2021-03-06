@@ -94,7 +94,7 @@ $body-color: #111;
 @import "../node_modules/bootstrap/scss/root";
 @import "../node_modules/bootstrap/scss/reboot";
 @import "../node_modules/bootstrap/scss/type";
-// etc
+// и т.д
 ```
 
 При необходимости повторите для любой переменной в Bootstrap, включая глобальные параметры ниже.
@@ -157,7 +157,7 @@ $theme-colors: map-remove($theme-colors, "info", "light", "dark");
 @import "../node_modules/bootstrap/scss/root";
 @import "../node_modules/bootstrap/scss/reboot";
 @import "../node_modules/bootstrap/scss/type";
-// etc
+// и т.д
 ```
 
 ## Обязательные ключи
