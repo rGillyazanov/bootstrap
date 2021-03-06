@@ -43,7 +43,7 @@ your-project/
 
 @import "../node_modules/bootstrap/scss/bootstrap";
 
-// Add custom code after this
+// Добавьте собственный код после этого
 ```
 
 ```scss
